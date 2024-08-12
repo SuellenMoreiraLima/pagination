@@ -14,7 +14,7 @@ Welcome to the **Simple Post Pagination Application**! This project is a straigh
 
 Before running the application, ensure you have the following installed:
 
-- [JDK 11+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [JDK 17+](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 - [Maven](https://maven.apache.org/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 
